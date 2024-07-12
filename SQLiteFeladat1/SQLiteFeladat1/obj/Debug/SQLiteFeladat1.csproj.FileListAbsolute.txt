@@ -1,0 +1,95 @@
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Form1.resources
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Properties.Resources.resources
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\SQLiteFeladat1.exe.config
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\SQLiteFeladat1.exe
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\SQLiteFeladat1.pdb
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFe.BFA9A92B.Up2Date
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.exe
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.pdb
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Forms.BaseContact.resources
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Forms.DeleteContact.resources
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Forms.EditContact.resources
+C:\Users\user\Desktop\C#\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Forms.NewContact.resources
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.csproj.AssemblyReference.cache
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Forms.BaseContact.resources
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Forms.DeleteContact.resources
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Forms.EditContact.resources
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Form1.resources
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Forms.NewContact.resources
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Properties.Resources.resources
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.csproj.GenerateResource.cache
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.csproj.CoreCompileInputs.cache
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.exe
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.pdb
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\SQLiteFeladat1.exe.config
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\SQLiteFeladat1.exe
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\SQLiteFeladat1.pdb
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\EntityFramework.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Data.SQLite.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\EntityFramework.xml
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Data.SQLite.xml
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFe.BFA9A92B.Up2Date
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Buffers.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Memory.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Buffers.xml
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Memory.xml
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1-main\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\SQLiteFeladat1.exe.config
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\SQLiteFeladat1.exe
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\SQLiteFeladat1.pdb
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\EntityFramework.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Buffers.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Data.SQLite.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Memory.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\EntityFramework.xml
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Buffers.xml
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Data.SQLite.xml
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Memory.xml
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.csproj.AssemblyReference.cache
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Forms.BaseContact.resources
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Forms.DeleteContact.resources
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Forms.EditContact.resources
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Form1.resources
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Forms.NewContact.resources
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.Properties.Resources.resources
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.csproj.GenerateResource.cache
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.csproj.CoreCompileInputs.cache
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFe.BFA9A92B.Up2Date
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.exe
+C:\Users\kapos\OneDrive\Asztali gép\SQLiteFeladat1\SQLiteFeladat1\obj\Debug\SQLiteFeladat1.pdb
